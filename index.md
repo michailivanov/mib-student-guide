@@ -1,6 +1,7 @@
 # MIB 2025-2027 Essential Information Summary
 
 ## 📅 Key Dates & Deadlines
+- **Create JAccount**: Now
 - **Insurance Payment**: August 11 - 20
 - **Fee Payment Deadline**: August 20
 - **Online Registration & Dorm Booking**: August 26 - 27
